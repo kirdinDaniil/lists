@@ -1,0 +1,3 @@
+/Users/zuzorqa/Desktop/первая неклассическая папка/основы/лабы/untitled14/cmake-build-debug/CMakeFiles/untitled14.dir
+/Users/zuzorqa/Desktop/первая неклассическая папка/основы/лабы/untitled14/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zuzorqa/Desktop/первая неклассическая папка/основы/лабы/untitled14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
